@@ -6,7 +6,7 @@ import net as net
 import regression_core
 import WSCNet_core
 import dataset
-import model_utils.runner as runner
+import runner as runner
 import multiprocessing
 
 
