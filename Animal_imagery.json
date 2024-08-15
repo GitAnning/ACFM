@@ -1,0 +1,1452 @@
+[
+    {
+        "id": 1,
+        "pic_cate": "animal",
+        "cate": "cormorant",
+        "diet": "omnivorous",
+        "unit": "social",
+        "volume": "medium",
+        "imagery_words": ['free','soaring','graceful','migratory','songful'],
+        "imagery_score": 3.4
+    },
+    {
+        "id": 2,
+        "pic_cate": "animal",
+        "cate": "quail",
+        "diet": "herbivorous",
+        "unit": "solitary",
+        "volume": "small",
+        "imagery_words": ['timid','delicate','earthy','nurturing','harmonious'],
+        "imagery_score": 2
+    },
+    {
+        "id": 3,
+        "pic_cate": "animal",
+        "cate": "zebra",
+        "diet": "herbivorous",
+        "unit": "solitary",
+        "volume": "medium",
+        "imagery_words": ['striking','unique','harmonious','agile','resilient'],
+        "imagery_score": 3.2
+    },
+    {
+        "id": 4,
+        "pic_cate": "animal",
+        "cate": "leopard",
+        "diet": "carnivorous",
+        "unit": "solitary",
+        "volume": "medium",
+        "imagery_words": ['sleek','powerful','agile','graceful','fierce'],
+        "imagery_score": 3.6
+    },
+    {
+        "id": 5,
+        "pic_cate": "animal",
+        "cate": "abalone",
+        "diet": "herbivorous",
+        "unit": "solitary",
+        "volume": "small",
+        "imagery_words": ['precious','luxurious','gourmet','marine','nourishing'],
+        "imagery_score": 3
+    },
+    {
+        "id": 6,
+        "pic_cate": "animal",
+        "cate": "polarbear",
+        "diet": "carnivorous",
+        "unit": "solitary",
+        "volume": "super large",
+        "imagery_words": ['strong','powerful','wild','nurturing','resilient'],
+        "imagery_score": 3.4
+    },
+    {
+        "id": 7,
+        "pic_cate": "animal",
+        "cate": "shellfish",
+        "diet": "omnivorous",
+        "unit": "solitary",
+        "volume": "super small",
+        "imagery_words": ['protection','adaptability','diversity','resilience','serenity'],
+        "imagery_score": 3.8
+    },
+    {
+        "id": 8,
+        "pic_cate": "animal",
+        "cate": "small dog",
+        "diet": "omnivorous",
+        "unit": "solitary",
+        "volume": "small",
+        "imagery_words": ['gentle','affectionate','playful','loyal','adorable'],
+        "imagery_score": 4
+    },
+    {
+        "id": 9,
+        "pic_cate": "animal",
+        "cate": "house lizard",
+        "diet": "omnivorous",
+        "unit": "solitary",
+        "volume": "medium",
+        "imagery_words": ['adaptable','camouflaged','resourceful','unassuming','regenerative'],
+        "imagery_score": 3
+    },
+    {
+        "id": 10,
+        "pic_cate": "animal",
+        "cate": "bat",
+        "diet": "omnivorous",
+        "unit": "solitary",
+        "volume": "small",
+        "imagery_words": ['nocturnal','mysterious','gothic','reclusive','mythical'],
+        "imagery_score": -0.2
+    },
+    {
+        "id": 11,
+        "pic_cate": "animal",
+        "cate": "chameleon",
+        "diet": "omnivorous",
+        "unit": "solitary",
+        "volume": "small",
+        "imagery_words": ['adaptable','camouflaged','resourceful','unassuming','regenerative'],
+        "imagery_score": 3.4
+    },
+    {
+        "id": 12,
+        "pic_cate": "animal",
+        "cate": "silkworm",
+        "diet": "herbivorous",
+        "unit": "solitary",
+        "volume": "small",
+        "imagery_words": ['diligence','dedication','transformation','nausea','fragility','],
+        "imagery_score": 1.2
+    },
+    {
+        "id": 13,
+        "pic_cate": "animal",
+        "cate": "hamster",
+        "diet": "herbivorous",
+        "unit": "solitary",
+        "volume": "small",
+        "imagery_words": ['cute','lively','small','adaptable','overbreeding'],
+        "imagery_score": 1.8
+    },
+    {
+        "id": 14,
+        "pic_cate": "animal",
+        "cate": "fly",
+        "diet": "omnivorous",
+        "unit": "solitary",
+        "volume": "super small",
+        "imagery_words": ['annoying','persistent','filthy','disease-carrier','pesky'],
+        "imagery_score": -3.2
+    },
+    {
+        "id": 15,
+        "pic_cate": "animal",
+        "cate": "large dog",
+        "diet": "omnivorous",
+        "unit": "social",
+        "volume": "large",
+        "imagery_words": ['loyal','majestic','fierce','protective','noble'],
+        "imagery_score": 3.4
+    },
+    {
+        "id": 16,
+        "pic_cate": "animal",
+        "cate": "bug",
+        "diet": "carnivorous",
+        "unit": "solitary",
+        "volume": "super small",
+        "imagery_words": ['delicate','transformative','adaptive','unassuming','resilient'],
+        "imagery_score": 2.8
+    },
+    {
+        "id": 17,
+        "pic_cate": "animal",
+        "cate": "pangolin",
+        "diet": "carnivorous",
+        "unit": "solitary",
+        "volume": "super small",
+        "imagery_words": ['armored','elusive','gentle','resilient','eco-protector'],
+        "imagery_score": 2.2
+    },
+    {
+        "id": 18,
+        "pic_cate": "animal",
+        "cate": "hedgehog",
+        "diet": "herbivorous",
+        "unit": "solitary",
+        "volume": "small",
+        "imagery_words": ['defensive','resourceful','solitary','prickly','resilient'],
+        "imagery_score": 1.2
+    },
+    {
+        "id": 19,
+        "pic_cate": "animal",
+        "cate": "gorilla",
+        "diet": "herbivorous",
+        "unit": "social",
+        "volume": "large",
+        "imagery_words": ['intelligent','mischievous','agile','social','curious'],
+        "imagery_score": 3
+    },
+    {
+        "id": 20,
+        "pic_cate": "animal",
+        "cate": "panda",
+        "diet": "herbivorous",
+        "unit": "solitary",
+        "volume": "medium",
+        "imagery_words": ['rare','adorable','gentle','conservation','nationaltreasure'],
+        "imagery_score": 3.6
+    },
+    {
+        "id": 21,
+        "pic_cate": "animal",
+        "cate": "wildgoose",
+        "diet": "herbivorous",
+        "unit": "solitary",
+        "volume": "medium",
+        "imagery_words": ['migratory','harmonious','loyal','resilient','navigational'],
+        "imagery_score": 2.4
+    },
+    {
+        "id": 22,
+        "pic_cate": "animal",
+        "cate": "kangaroo",
+        "diet": "herbivorous",
+        "unit": "solitary",
+        "volume": "medium",
+        "imagery_words": ['strong','marsupial','resilient','bounding','aggressive'],
+        "imagery_score": 1
+    },
+    {
+        "id": 23,
+        "pic_cate": "animal",
+        "cate": "red-crownedcrane",
+        "diet": "herbivorous",
+        "unit": "social",
+        "volume": "medium",
+        "imagery_words": ['graceful','regal','longevity','purity','harmony'],
+        "imagery_score": 3.6
+    },
+    {
+        "id": 24,
+        "pic_cate": "animal",
+        "cate": "goose",
+        "diet": "omnivorous",
+        "unit": "social",
+        "volume": "medium",
+        "imagery_words": ['sneaky','gloomy','trickster','unpredictable','wise'],
+        "imagery_score": -1.2
+    },
+    {
+        "id": 25,
+        "pic_cate": "animal",
+        "cate": "crocodile",
+        "diet": "carnivorous",
+        "unit": "solitary",
+        "volume": "large",
+        "imagery_words": ['primitive','predatory','resilient','stealthy','ambitious'],
+        "imagery_score": 0.4
+    },
+    {
+        "id": 26,
+        "pic_cate": "animal",
+        "cate": "hummingbird",
+        "diet": "herbivorous",
+        "unit": "solitary",
+        "volume": "super small",
+        "imagery_words": ['delicate','agile','tenacious','pollinator','ephemeral'],
+        "imagery_score": 2.8
+    },
+    {
+        "id": 27,
+        "pic_cate": "animal",
+        "cate": "small bird",
+        "diet": "herbivorous",
+        "unit": "solitary",
+        "volume": "small",
+        "imagery_words": ['delicate','agile','tenacious','pollinator','ephemeral'],
+        "imagery_score": 2
+    },
+    {
+        "id": 28,
+        "pic_cate": "animal",
+        "cate": "possum",
+        "diet": "omnivorous",
+        "unit": "solitary",
+        "volume": "medium",
+        "imagery_words": ['clever','disgusting','pest','dirty','horrible'],
+        "imagery_score": -1.8
+    },
+    {
+        "id": 29,
+        "pic_cate": "animal",
+        "cate": "lamb",
+        "diet": "herbivorous",
+        "unit": "solitary",
+        "volume": "small",
+        "imagery_words": ['innocent','gentle','docile','nurturing','resilient'],
+        "imagery_score": 3
+    },
+    {
+        "id": 30,
+        "pic_cate": "animal",
+        "cate": "dove",
+        "diet": "herbivorous",
+        "unit": "solitary",
+        "volume": "small",
+        "imagery_words": ['peaceful','messenger','purity','harmony','unity'],
+        "imagery_score": 3
+    },
+    {
+        "id": 31,
+        "pic_cate": "animal",
+        "cate": "pigeon",
+        "diet": "herbivorous",
+        "unit": "solitary",
+        "volume": "small",
+        "imagery_words": ['peaceful',''scavenger','sympathy','innocent','adaptable'],
+        "imagery_score": 2.6
+    },
+    {
+        "id": 32,
+        "pic_cate": "animal",
+        "cate": "rooster",
+        "diet": "omnivorous",
+        "unit": "solitary",
+        "volume": "medium",
+        "imagery_words": ['resourceful','vigilant','fertility','regeneration','tenacious'],
+        "imagery_score": 3.2
+    },
+    {
+        "id": 33,
+        "pic_cate": "animal",
+        "cate": "dog",
+        "diet": "carnivorous",
+        "unit": "social",
+        "volume": "medium",
+        "imagery_words": ['loyal','protective','friendly','playful','resilient'],
+        "imagery_score": 3.4
+    },
+    {
+        "id": 34,
+        "pic_cate": "animal",
+        "cate": "poodle",
+        "diet": "omnivorous",
+        "unit": "solitary",
+        "volume": "small",
+        "imagery_words": ['gentle','affectionate','playful','loyal','adorable'],
+        "imagery_score": 4
+    },
+    {
+        "id": 35,
+        "pic_cate": "animal",
+        "cate": "seals",
+        "diet": "carnivorous",
+        "unit": "solitary",
+        "volume": "large",
+        "imagery_words": ['playful','adaptable','marine','cuddly','resilient'],
+        "imagery_score": 3
+    },
+    {
+        "id": 36,
+        "pic_cate": "animal",
+        "cate": "seacucumber",
+        "diet": "herbivorous",
+        "unit": "solitary",
+        "volume": "super small",
+        "imagery_words": ['slimy','elusive','nutritious','oceanic'],
+        "imagery_score": 0.5
+    },
+    {
+        "id": 37,
+        "pic_cate": "animal",
+        "cate": "seaurchin",
+        "diet": "herbivorous",
+        "unit": "solitary",
+        "volume": "small",
+        "imagery_words": ['spiky','unique','marine','delicate','resilient'],
+        "imagery_score": 1.8
+    },
+    {
+        "id": 38,
+        "pic_cate": "animal",
+        "cate": "seagull",
+        "diet": "omnivorous",
+        "unit": "solitary",
+        "volume": "medium",
+        "imagery_words": ['graceful','aquatic','vigilant','migratory','freedom'],
+        "imagery_score": 2.2
+    },
+    {
+        "id": 39,
+        "pic_cate": "animal",
+        "cate": "sealions",
+        "diet": "omnivorous",
+        "unit": "social",
+        "volume": "super large",
+        "imagery_words": ['playful','adaptable','marine','cuddly','resilient'],
+        "imagery_score": 2.8
+    },
+    {
+        "id": 40,
+        "pic_cate": "animal",
+        "cate": "dolphin",
+        "diet": "omnivorous",
+        "unit": "social",
+        "volume": "super large",
+        "imagery_words": ['playful','intelligent','graceful','compassionate','free-spirited'],
+        "imagery_score": 3.6
+    },
+    {
+        "id": 41,
+        "pic_cate": "animal",
+        "cate": "walrus",
+        "diet": "carnivorous",
+        "unit": "social",
+        "volume": "super large",
+        "imagery_words": ['playful','adaptable','marine','cuddly','resilient'],
+        "imagery_score": 3.2
+    },
+    {
+        "id": 42,
+        "pic_cate": "animal",
+        "cate": "starfish",
+        "diet": "carnivorous",
+        "unit": "solitary",
+        "volume": "super small",
+        "imagery_words": ['marine','unique','regenerative','symmetry','tranquil'],
+        "imagery_score": 3.4
+    },
+    {
+        "id": 43,
+        "pic_cate": "animal",
+        "cate": "marineorganism",
+        "diet": "omnivorous",
+        "unit": "social",
+        "volume": "medium",
+        "imagery_words": ['diverse','vast','mysterious','dynamic','life-sustaining'],
+        "imagery_score": 2.8
+    },
+    {
+        "id": 44,
+        "pic_cate": "animal",
+        "cate": "porcupine",
+        "diet": "herbivorous",
+        "unit": "solitary",
+        "volume": "medium",
+        "imagery_words": "defense','vigilance','wisdom','thorns','disguise",
+        "imagery_score": 1
+    },
+    {
+        "id": 45,
+        "pic_cate": "animal",
+        "cate": "yak",
+        "diet": "herbivorous",
+        "unit": "solitary",
+        "volume": "super large",
+        "imagery_words": ['powerful','wild','majestic','resilient','untamed'],
+        "imagery_score": 3
+    },
+    {
+        "id": 46,
+        "pic_cate": "animal",
+        "cate": "hippo",
+        "diet": "herbivorous",
+        "unit": "social",
+        "volume": "super large",
+        "imagery_words": ['massive','aquatic','docile','social'],
+        "imagery_score": 2
+    },
+    {
+        "id": 47,
+        "pic_cate": "animal",
+        "cate": "pufferfish",
+        "diet": "carnivorous",
+        "unit": "solitary",
+        "volume": "super small",
+        "imagery_words": ['cautionary','hazardous','intriguing','defended','unyielding'],
+        "imagery_score": -1.2
+    },
+    {
+        "id": 48,
+        "pic_cate": "animal",
+        "cate": "monkey",
+        "diet": "omnivorous",
+        "unit": "social",
+        "volume": "medium",
+        "imagery_words": ['intelligent','mischievous','agile','social','curious'],
+        "imagery_score": 3
+    },
+    {
+        "id": 49,
+        "pic_cate": "animal",
+        "cate": "fox",
+        "diet": "carnivorous",
+        "unit": "solitary",
+        "volume": "medium",
+        "imagery_words": ['sly','cunning','adaptable','mystical','resourceful'],
+        "imagery_score": 1
+    },
+    {
+        "id": 50,
+        "pic_cate": "animal",
+        "cate": "butterfly",
+        "diet": "herbivorous",
+        "unit": "solitary",
+        "volume": "small",
+        "imagery_words": ['transformation','graceful','fragile','freedom','beauty'],
+        "imagery_score": 2.4
+    },
+    {
+        "id": 51,
+        "pic_cate": "animal",
+        "cate": "raccoon",
+        "diet": "omnivorous",
+        "unit": "solitary",
+        "volume": "medium",
+        "imagery_words": ['adorable','curious','resourceful','playful','mischievous'],
+        "imagery_score": 2.8
+    },
+    {
+        "id": 52,
+        "pic_cate": "animal",
+        "cate": "yellowweasel",
+        "diet": "carnivorous",
+        "unit": "solitary",
+        "volume": "small",
+        "imagery_words": ['sly','cunning','adaptable','resourceful','elusive'],
+        "imagery_score": 0
+    },
+    {
+        "id": 53,
+        "pic_cate": "animal",
+        "cate": "grasshopper",
+        "diet": "herbivorous",
+        "unit": "solitary",
+        "volume": "small",
+        "imagery_words": ['nimble','freedom','adaptability','destructive','pest'],
+        "imagery_score": 0.8
+    },
+    {
+        "id": 54,
+        "pic_cate": "animal",
+        "cate": "flamingo",
+        "diet": "herbivorous",
+        "unit": "social",
+        "volume": "medium",
+        "imagery_words": ['graceful','elegant','colorful','poised','special'],
+        "imagery_score": 3.4
+    },
+    {
+        "id": 55,
+        "pic_cate": "animal",
+        "cate": "chicken",
+        "diet": "omnivorous",
+        "unit": "solitary",
+        "volume": "small",
+        "imagery_words": ['resourceful','vigilant','fertility','regeneration','tenacious'],
+        "imagery_score": 3
+    },
+    {
+        "id": 56,
+        "pic_cate": "animal",
+        "cate": "hermitcrab",
+        "diet": "omnivorous",
+        "unit": "solitary",
+        "volume": "medium",
+        "imagery_words": ['resourceful','adaptive','tenacious','protective','transformative'],
+        "imagery_score": 3.4
+    },
+    {
+        "id": 57,
+        "pic_cate": "animal",
+        "cate": "cattle",
+        "diet": "herbivorous",
+        "unit": "solitary",
+        "volume": "large",
+        "imagery_words": ['domesticated','docile','productive','nurturing','resilient'],
+        "imagery_score": 3.4
+    },
+    {
+        "id": 58,
+        "pic_cate": "animal",
+        "cate": "goldfish",
+        "diet": "omnivorous",
+        "unit": "solitary",
+        "volume": "small",
+        "imagery_words": ['serenity','grace','prosperity','longevity','harmony'],
+        "imagery_score": 4
+    },
+    {
+        "id": 59,
+        "pic_cate": "animal",
+        "cate": "whale",
+        "diet": "carnivorous",
+        "unit": "social",
+        "volume": "super large",
+        "imagery_words": ['majestic','powerful','graceful','solitary','vast'],
+        "imagery_score": 2.2
+    },
+    {
+        "id": 60,
+        "pic_cate": "animal",
+        "cate": "bigbilledbirdssuchastoucans",
+        "diet": "omnivorous",
+        "unit": "solitary",
+        "volume": "super large",
+        "imagery_words": ['exotic','colorful','playful','unique','vibrant'],
+        "imagery_score": 3.6
+    },
+    {
+        "id": 61,
+        "pic_cate": "animal",
+        "cate": "koala",
+        "diet": "herbivorous",
+        "unit": "solitary",
+        "volume": "small",
+        "imagery_words": ['gentle','sleepy','cuddly','laid-back','eco-friendly'],
+        "imagery_score": 3.2
+    },
+    {
+        "id": 62,
+        "pic_cate": "animal",
+        "cate": "peacock",
+        "diet": "omnivorous",
+        "unit": "solitary",
+        "volume": "large",
+        "imagery_words": ['exquisite','flamboyant','proud','regal','transformative'],
+        "imagery_score": 3.9
+    },
+    {
+        "id": 63,
+        "pic_cate": "animal",
+        "cate": "dinosaur",
+        "diet": "carnivorous",
+        "unit": "solitary",
+        "volume": "super large",
+        "imagery_words": ['ancient','powerful','prehistoric','extinct','colossal'],
+        "imagery_score": 1
+    },
+    {
+        "id": 64,
+        "pic_cate": "animal",
+        "cate": "bluejay",
+        "diet": "omnivorous",
+        "unit": "solitary",
+        "volume": "small",
+        "imagery_words": ['clever','wise','admirable','cheerful','mischievous'],
+        "imagery_score": 3.4
+    },
+    {
+        "id": 65,
+        "pic_cate": "animal",
+        "cate": "wolf",
+        "diet": "carnivorous",
+        "unit": "social",
+        "volume": "large",
+        "imagery_words": ['lone','fierce','wild','cunning','loyal'],
+        "imagery_score": 0.4
+    },
+    {
+        "id": 66,
+        "pic_cate": "animal",
+        "cate": "tiger",
+        "diet": "carnivorous",
+        "unit": "solitary",
+        "volume": "large",
+        "imagery_words": ['mighty','power','king','brave','mysterious'],
+        "imagery_score": 3.6
+    },
+    {
+        "id": 67,
+        "pic_cate": "animal",
+        "cate": "mouse",
+        "diet": "omnivorous",
+        "unit": "solitary",
+        "volume": "small",
+        "imagery_words": ['clever','disgusting','pest','dirty','adaptable'],
+        "imagery_score": -1
+    },
+    {
+        "id": 68,
+        "pic_cate": "animal",
+        "cate": "civets",
+        "diet": "omnivorous",
+        "unit": "solitary",
+        "volume": "medium",
+        "imagery_words": ['sly','cunning','adaptable','resourceful','elusive'],
+        "imagery_score": -0.2
+    },
+    {
+        "id": 69,
+        "pic_cate": "animal",
+        "cate": "cheetah",
+        "diet": "carnivorous",
+        "unit": "solitary",
+        "volume": "medium",
+        "imagery_words": ['sleek','powerful','agile','graceful','fierce'],
+        "imagery_score": 3.6
+    },
+    {
+        "id": 70,
+        "pic_cate": "animal",
+        "cate": "thehyena",
+        "diet": "carnivorous",
+        "unit": "solitary",
+        "volume": "medium",
+        "imagery_words": ['resourceful','tenacious','ruthless','adaptable','opportunistic'],
+        "imagery_score": 2
+    },
+    {
+        "id": 71,
+        "pic_cate": "animal",
+        "cate": "antelope",
+        "diet": "herbivorous",
+        "unit": "solitary",
+        "volume": "medium",
+        "imagery_words": ['graceful','agile','swift','vulnerable','prey'],
+        "imagery_score": 0
+    },
+    {
+        "id": 72,
+        "pic_cate": "animal",
+        "cate": "dragon",
+        "diet": "carnivorous",
+        "unit": "solitary",
+        "volume": "super large",
+        "imagery_words": ['majestic','strong','wise','fearful','violent'],
+        "imagery_score": 0.8
+    },
+    {
+        "id": 73,
+        "pic_cate": "animal",
+        "cate": "lobster",
+        "diet": "carnivorous",
+        "unit": "solitary",
+        "volume": "medium",
+        "imagery_words": ['resilient','resourceful','tenacious','transformative','luxurious'],
+        "imagery_score": 4
+    },
+    {
+        "id": 74,
+        "pic_cate": "animal",
+        "cate": "deer",
+        "diet": "herbivorous",
+        "unit": "solitary",
+        "volume": "medium",
+        "imagery_words": ['graceful','gentle','elusive','regal','transformative'],
+        "imagery_score": 2.4
+    },
+    {
+        "id": 75,
+        "pic_cate": "animal",
+        "cate": "egret",
+        "diet": "carnivorous",
+        "unit": "solitary",
+        "volume": "small",
+        "imagery_words": ['graceful','solitary','serene','regal','migratory'],
+        "imagery_score": 1.8
+    },
+    {
+        "id": 76,
+        "pic_cate": "animal",
+        "cate": "snails",
+        "diet": "herbivorous",
+        "unit": "solitary",
+        "volume": "small",
+        "imagery_words": ['protection','adaptability','diversity','resilience','serenity'],
+        "imagery_score": 3.6
+    },
+    {
+        "id": 77,
+        "pic_cate": "animal",
+        "cate": "camel",
+        "diet": "herbivorous",
+        "unit": "solitary",
+        "volume": "medium",
+        "imagery_words": ['endurance','resilience','adaptability','burden-bearing'],
+        "imagery_score": 2.75
+    },
+    {
+        "id": 78,
+        "pic_cate": "animal",
+        "cate": "horse",
+        "diet": "herbivorous",
+        "unit": "social",
+        "volume": "large",
+        "imagery_words": ['majestic','powerful','graceful','loyal','free-spirited'],
+        "imagery_score": 3.6
+    },
+    {
+        "id": 79,
+        "pic_cate": "animal",
+        "cate": "ants",
+        "diet": "carnivorous",
+        "unit": "social",
+        "volume": "super small",
+        "imagery_words": ['industrious','cooperative','organized','persistent','resourceful'],
+        "imagery_score": 3.4
+    },
+    {
+        "id": 80,
+        "pic_cate": "animal",
+        "cate": "cat",
+        "diet": "carnivorous",
+        "unit": "solitary",
+        "volume": "medium",
+        "imagery_words": ['mysterious','elegant','independent','lucky','spiritual'],
+        "imagery_score": 3.2
+    },
+    {
+        "id": 81,
+        "pic_cate": "animal",
+        "cate": "owl",
+        "diet": "omnivorous",
+        "unit": "solitary",
+        "volume": "medium",
+        "imagery_words": ['wise','nocturnal','observant','silent','mystical'],
+        "imagery_score": 1.6
+    },
+    {
+        "id": 82,
+        "pic_cate": "animal",
+        "cate": "llama",
+        "diet": "herbivorous",
+        "unit": "solitary",
+        "volume": "medium",
+        "imagery_words": ['endurance','resilience','adaptability','burden-bearing'],
+        "imagery_score": 2.75
+    },
+    {
+        "id": 83,
+        "pic_cate": "animal",
+        "cate": "bee",
+        "diet": "herbivorous",
+        "unit": "social",
+        "volume": "small",
+        "imagery_words": ['productive','industrious','collaborative','pollinating','transformative'],
+        "imagery_score": 3.4
+    },
+    {
+        "id": 84,
+        "pic_cate": "animal",
+        "cate": "honeybee",
+        "diet": "herbivorous",
+        "unit": "social",
+        "volume": "small",
+        "imagery_words": ['productive','industrious','collaborative','pollinating','transformative'],
+        "imagery_score": 3.4
+    },
+    {
+        "id": 85,
+        "pic_cate": "animal",
+        "cate": "bird",
+        "diet": "omnivorous",
+        "unit": "social",
+        "volume": "small",
+        "imagery_words": ['free','soaring','graceful','migratory','songful'],
+        "imagery_score": 3.2
+    },
+    {
+        "id": 86,
+        "pic_cate": "animal",
+        "cate": "birds",
+        "diet": "omnivorous",
+        "unit": "social",
+        "volume": "small",
+        "imagery_words": ['free','soaring','graceful','migratory','songful'],
+        "imagery_score": 3
+    },
+    {
+        "id": 87,
+        "pic_cate": "animal",
+        "cate": "crab",
+        "diet": "carnivorous",
+        "unit": "solitary",
+        "volume": "small",
+        "imagery_words": ['resilient','resourceful','tenacious','transformative','luxurious'],
+        "imagery_score": 4
+    },
+    {
+        "id": 88,
+        "pic_cate": "animal",
+        "cate": "pikachu",
+        "diet": "carnivorous",
+        "unit": "solitary",
+        "volume": "super small",
+        "imagery_words": ['energetic','loyal','cute','adorable','brilliant'],
+        "imagery_score": 3.8
+    },
+    {
+        "id": 89,
+        "pic_cate": "animal",
+        "cate": "ladybug",
+        "diet": "herbivorous",
+        "unit": "solitary",
+        "volume": "small",
+        "imagery_words": ['benevolent','innocent','harmony','protection','renewal'],
+        "imagery_score": 3.6
+    },
+    {
+        "id": 90,
+        "pic_cate": "animal",
+        "cate": "coccinellaseptempunctata",
+        "diet": "carnivorous",
+        "unit": "solitary",
+        "volume": "super small",
+        "imagery_words": ['beneficial','colorful','delicate','lucky','nature'sfriend'],
+        "imagery_score": 3.2
+    },
+    {
+        "id": 91,
+        "pic_cate": "animal",
+        "cate": "penguin",
+        "diet": "herbivorous",
+        "unit": "social",
+        "volume": "small",
+        "imagery_words": ['adorable','regal','resilient','social','playful'],
+        "imagery_score": 3
+    },
+    {
+        "id": 92,
+        "pic_cate": "animal",
+        "cate": "crane",
+        "diet": "herbivorous",
+        "unit": "solitary",
+        "volume": "large",
+        "imagery_words": ['graceful','elegant','serenity','watchful','longevity'],
+        "imagery_score": 3.2
+    },
+    {
+        "id": 93,
+        "pic_cate": "animal",
+        "cate": "frog",
+        "diet": "omnivorous",
+        "unit": "solitary",
+        "volume": "small",
+        "imagery_words": ['renewal','transformation','adaptability','fertility','harmony'],
+        "imagery_score": 3.9
+    },
+    {
+        "id": 94,
+        "pic_cate": "animal",
+        "cate": "sparrowbird",
+        "diet": "omnivorous",
+        "unit": "solitary",
+        "volume": "small",
+        "imagery_words": ['graceful','lively','agile','musical','free-spirited'],
+        "imagery_score": 3.6
+    },
+    {
+        "id": 95,
+        "pic_cate": "animal",
+        "cate": "softbodiedinsects",
+        "diet": "herbivorous",
+        "unit": "solitary",
+        "volume": "super small",
+        "imagery_words": ['delicate','transformative','adaptive','unassuming','resilient'],
+        "imagery_score": 2.8
+    },
+    {
+        "id": 96,
+        "pic_cate": "animal",
+        "cate": "shark",
+        "diet": "carnivorous",
+        "unit": "solitary",
+        "volume": "large",
+        "imagery_words": ['powerful','predatory','majestic','unforgiving','ancient'],
+        "imagery_score": 0.8
+    },
+    {
+        "id": 97,
+        "pic_cate": "animal",
+        "cate": "goat",
+        "diet": "herbivorous",
+        "unit": "solitary",
+        "volume": "medium",
+        "imagery_words": ['innocent','gentle','docile','nurturing','resilient'],
+        "imagery_score": 3.2
+    },
+    {
+        "id": 98,
+        "pic_cate": "animal",
+        "cate": "coral",
+        "diet": "carnivorous",
+        "unit": "solitary",
+        "volume": "super small",
+        "imagery_words": ['colorful','oceanic','diverse','precious','ecological'],
+        "imagery_score": 3.8
+    },
+    {
+        "id": 99,
+        "pic_cate": "animal",
+        "cate": "snake",
+        "diet": "carnivorous",
+        "unit": "solitary",
+        "volume": "small",
+        "imagery_words": ['slippery','cunning','transformative','mystical','dangerous'],
+        "imagery_score": -0.2
+    },
+    {
+        "id": 100,
+        "pic_cate": "animal",
+        "cate": "husky",
+        "diet": "omnivorous",
+        "unit": "solitary",
+        "volume": "medium",
+        "imagery_words": ['companionable','loyal','gentle','majestic','playful'],
+        "imagery_score": 3.6
+    },
+    {
+        "id": 101,
+        "pic_cate": "animal",
+        "cate": "lion",
+        "diet": "carnivorous",
+        "unit": "social",
+        "volume": "large",
+        "imagery_words": ['strong','mighty','king','dignity','pride'],
+        "imagery_score": 3.6
+    },
+    {
+        "id": 102,
+        "pic_cate": "animal",
+        "cate": "rat",
+        "diet": "omnivorous",
+        "unit": "solitary",
+        "volume": "small",
+        "imagery_words": ['clever','disgusting','pest','dirty','adaptable'],
+        "imagery_score": -0.8
+    },
+    {
+        "id": 103,
+        "pic_cate": "animal",
+        "cate": "sloth",
+        "diet": "herbivorous",
+        "unit": "solitary",
+        "volume": "small",
+        "imagery_words": ['lazy','slow','indolent','dreamy'],
+        "imagery_score": -1
+    },
+    {
+        "id": 104,
+        "pic_cate": "animal",
+        "cate": "jellyfish",
+        "diet": "carnivorous",
+        "unit": "solitary",
+        "volume": "super small",
+        "imagery_words": ['elegant','fragile','electrical','otherworldly','translucent'],
+        "imagery_score": 1.6
+    },
+    {
+        "id": 105,
+        "pic_cate": "animal",
+        "cate": "waterfowl",
+        "diet": "omnivorous",
+        "unit": "solitary",
+        "volume": "medium",
+        "imagery_words": ['graceful','aquatic','vigilant','migratory','freedom'],
+        "imagery_score": 2.2
+    },
+    {
+        "id": 106,
+        "pic_cate": "animal",
+        "cate": "squirrel",
+        "diet": "herbivorous",
+        "unit": "solitary",
+        "volume": "small",
+        "imagery_words": ['energetic','agile','resourceful','playful','industrious'],
+        "imagery_score": 3.6
+    },
+    {
+        "id": 107,
+        "pic_cate": "animal",
+        "cate": "mantis",
+        "diet": "omnivorous",
+        "unit": "solitary",
+        "volume": "small",
+        "imagery_words": ['predatory','agile','resourceful','resilient','camouflaged'],
+        "imagery_score": 1.8
+    },
+    {
+        "id": 108,
+        "pic_cate": "animal",
+        "cate": "pelican",
+        "diet": "omnivorous",
+        "unit": "solitary",
+        "volume": "super large",
+        "imagery_words": ['gentle','vulnerable','adaptable','wise','philanthropic'],
+        "imagery_score": 3
+    },
+    {
+        "id": 109,
+        "pic_cate": "animal",
+        "cate": "swan",
+        "diet": "herbivorous",
+        "unit": "solitary",
+        "volume": "medium",
+        "imagery_words": ['graceful','pure','regal','loyal','serene'],
+        "imagery_score": 3.6
+    },
+    {
+        "id": 110,
+        "pic_cate": "animal",
+        "cate": "marmot",
+        "diet": "omnivorous",
+        "unit": "social",
+        "volume": "medium",
+        "imagery_words": ['resourceful','adaptable','playful','diligent','burrowing'],
+        "imagery_score": 2.8
+    },
+    {
+        "id": 111,
+        "pic_cate": "animal",
+        "cate": "rabbit",
+        "diet": "herbivorous",
+        "unit": "solitary",
+        "volume": "small",
+        "imagery_words": ['gentle','timid','fertile','swift','innocent'],
+        "imagery_score": 2.4
+    },
+    {
+        "id": 112,
+        "pic_cate": "animal",
+        "cate": "guineapig",
+        "diet": "herbivorous",
+        "unit": "solitary",
+        "volume": "small",
+        "imagery_words": ['cute','lively','small','adaptable','overbreeding'],
+        "imagery_score": 1.8
+    },
+    {
+        "id": 113,
+        "pic_cate": "animal",
+        "cate": "moose",
+        "diet": "herbivorous",
+        "unit": "solitary",
+        "volume": "large",
+        "imagery_words": ['mixed','docile','productive','nurturing','resilient'],
+        "imagery_score": 3
+    },
+    {
+        "id": 114,
+        "pic_cate": "animal",
+        "cate": "ostrich",
+        "diet": "herbivorous",
+        "unit": "solitary",
+        "volume": "super large",
+        "imagery_words": ['awkward','ostrich','swift','curious','resilient'],
+        "imagery_score": 1.4
+    },
+    {
+        "id": 115,
+        "pic_cate": "animal",
+        "cate": "turtle",
+        "diet": "herbivorous",
+        "unit": "solitary",
+        "volume": "medium",
+        "imagery_words": ['patient','resilient','wise','longevity','steadfast'],
+        "imagery_score": 4.2
+    },
+    {
+        "id": 116,
+        "pic_cate": "animal",
+        "cate": "crow",
+        "diet": "carnivorous",
+        "unit": "solitary",
+        "volume": "medium",
+        "imagery_words": ['ominous','wise','adaptable','transformative','curious'],
+        "imagery_score": 1.8
+    },
+    {
+        "id": 117,
+        "pic_cate": "animal",
+        "cate": "centipede",
+        "diet": "carnivorous",
+        "unit": "solitary",
+        "volume": "small",
+        "imagery_words": ['dangerous','venomous','resilient','resourceful','predatory'],
+        "imagery_score": -0.8
+    },
+    {
+        "id": 118,
+        "pic_cate": "animal",
+        "cate": "rhinoceros",
+        "diet": "herbivorous",
+        "unit": "solitary",
+        "volume": "super large",
+        "imagery_words": ['powerful','endangered','tenacious','majestic','solitary'],
+        "imagery_score": 1.4
+    },
+    {
+        "id": 119,
+        "pic_cate": "animal",
+        "cate": "lizard",
+        "diet": "omnivorous",
+        "unit": "solitary",
+        "volume": "medium",
+        "imagery_words": ['adaptable','camouflaged','resourceful','unassuming','regenerative'],
+        "imagery_score": 2.6
+    },
+    {
+        "id": 120,
+        "pic_cate": "animal",
+        "cate": "magpie",
+        "diet": "omnivorous",
+        "unit": "social",
+        "volume": "medium",
+        "imagery_words": ['omenofgoodfortune','harmonious','communicative','agile','auspicious'],
+        "imagery_score": 4
+    },
+    {
+        "id": 121,
+        "pic_cate": "animal",
+        "cate": "shrimp",
+        "diet": "omnivorous",
+        "unit": "solitary",
+        "volume": "super small",
+        "imagery_words": ['delicate','agile','aquatic','nutritious','resilient'],
+        "imagery_score": 2.8
+    },
+    {
+        "id": 122,
+        "pic_cate": "animal",
+        "cate": "elephant",
+        "diet": "herbivorous",
+        "unit": "social",
+        "volume": "super large",
+        "imagery_words": ['luminous','serene','mystical','cyclical','unifying'],
+        "imagery_score": 2.8
+    },
+    {
+        "id": 123,
+        "pic_cate": "animal",
+        "cate": "tropical fish",
+        "diet": "omnivorous",
+        "unit": "solitary",
+        "volume": "small",
+        "imagery_words": ['vibrant','playful','resilient','curious','adaptable'],
+        "imagery_score": 3
+    },
+    {
+        "id": 124,
+        "pic_cate": "animal",
+        "cate": "lesserpanda",
+        "diet": "herbivorous",
+        "unit": "solitary",
+        "volume": "super small",
+        "imagery_words": ['adorable','curious','resourceful','playful','mischievous'],
+        "imagery_score": 2.8
+    },
+    {
+        "id": 125,
+        "pic_cate": "animal",
+        "cate": "scorpion",
+        "diet": "carnivorous",
+        "unit": "solitary",
+        "volume": "small",
+        "imagery_words": ['dangerous','venomous','resilient','resourceful','predatory'],
+        "imagery_score": -0.8
+    },
+    {
+        "id": 126,
+        "pic_cate": "animal",
+        "cate": "chimpanzee",
+        "diet": "omnivorous",
+        "unit": "social",
+        "volume": "large",
+        "imagery_words": ['intelligent','mischievous','agile','social','curious'],
+        "imagery_score": 2.8
+    },
+    {
+        "id": 127,
+        "pic_cate": "animal",
+        "cate": "bear",
+        "diet": "omnivorous",
+        "unit": "solitary",
+        "volume": "large",
+        "imagery_words": ['strong','powerful','wild','nurturing','resilient'],
+        "imagery_score": 3.4
+    },
+    {
+        "id": 128,
+        "pic_cate": "animal",
+        "cate": "sturgeon\/eelandotherfish",
+        "diet": "carnivorous",
+        "unit": "sturgeon",
+        "volume": "super large",
+        "imagery_words": ['endurance','longevity','graceful','mythical'],
+        "imagery_score": 3.25
+    },
+    {
+        "id": 129,
+        "pic_cate": "animal",
+        "cate": "duck",
+        "diet": "omnivorous",
+        "unit": "solitary",
+        "volume": "small",
+        "imagery_words": ['graceful','resourceful','loyal','resilient','playful'],
+        "imagery_score": 4
+    },
+    {
+        "id": 130,
+        "pic_cate": "animal",
+        "cate": "sheep",
+        "diet": "herbivorous",
+        "unit": "solitary",
+        "volume": "medium",
+        "imagery_words": ['innocent','gentle','docile','nurturing','resilient'],
+        "imagery_score": 3.2
+    },
+    {
+        "id": 131,
+        "pic_cate": "animal",
+        "cate": "alpaca",
+        "diet": "herbivorous",
+        "unit": "solitary",
+        "volume": "medium",
+        "imagery_words": ['whimsical','gentle','quirky','adaptable','soft'],
+        "imagery_score": 3
+    },
+    {
+        "id": 132,
+        "pic_cate": "animal",
+        "cate": "ray",
+        "diet": "carnivorous",
+        "unit": "solitary",
+        "volume": "medium",
+        "imagery_words": ['graceful','enigmatic','marine','ancient'],
+        "imagery_score": 1.25
+    },
+    {
+        "id": 133,
+        "pic_cate": "animal",
+        "cate": "buffalo",
+        "diet": "herbivorous",
+        "unit": "solitary",
+        "volume": "large",
+        "imagery_words": ['powerful','wild','majestic','resilient','untamed'],
+        "imagery_score": 3
+    },
+    {
+        "id": 134,
+        "pic_cate": "animal",
+        "cate": "wildboar",
+        "diet": "omnivorous",
+        "unit": "solitary",
+        "volume": "medium",
+        "imagery_words": ['fierce','robust','wild','tenacious','untamed'],
+        "imagery_score": 2.4
+    },
+    {
+        "id": 135,
+        "pic_cate": "animal",
+        "cate": "nightingale",
+        "diet": "herbivorous",
+        "unit": "solitary",
+        "volume": "small",
+        "imagery_words": ['melodious','romantic','elusive','enchanting'],
+        "imagery_score": 3
+    },
+    {
+        "id": 136,
+        "pic_cate": "animal",
+        "cate": "parrot",
+        "diet": "omnivorous",
+        "unit": "solitary",
+        "volume": "small",
+        "imagery_words": ['eloquent','colorful','social','intelligent','mimicry'],
+        "imagery_score": 2.8
+    },
+    {
+        "id": 137,
+        "pic_cate": "animal",
+        "cate": "eagle",
+        "diet": "carnivorous",
+        "unit": "social",
+        "volume": "large",
+        "imagery_words": ['strength','courageous','ambush','scary','strong'],
+        "imagery_score": 1
+    },
+    {
+        "id": 138,
+        "pic_cate": "animal",
+        "cate": "hardshelledinsects",
+        "diet": "herbivorous",
+        "unit": "solitary",
+        "volume": "super small",
+        "imagery_words": ['armored','durable','intricate','resourceful','persevering'],
+        "imagery_score": 2.8
+    },
+    {
+        "id": 139,
+        "pic_cate": "animal",
+        "cate": "weasel",
+        "diet": "carnivorous",
+        "unit": "solitary",
+        "volume": "small",
+        "imagery_words": ['sly','cunning','adaptable','resourceful','elusive'],
+        "imagery_score": 0
+    },
+    {
+        "id": 140,
+        "pic_cate": "animal",
+        "cate": "fish",
+        "diet": "carnivorous",
+        "unit": "solitary",
+        "volume": "super large",
+        "imagery_words": ['abundance','weak','harmony','trapped','superficial'],
+        "imagery_score": -0.4
+    },
+    {
+        "id": 141,
+        "pic_cate": "animal",
+        "cate": "octopus",
+        "diet": "omnivorous",
+        "unit": "solitary",
+        "volume": "medium",
+        "imagery_words": ['elusive','adaptable','intelligent','curious','enigmatic'],
+        "imagery_score": 2
+    },
+    {
+        "id": 142,
+        "pic_cate": "animal",
+        "cate": "giraffe",
+        "diet": "herbivorous",
+        "unit": "solitary",
+        "volume": "super large",
+        "imagery_words": ['slow','elegant','intellectual','enduring','observant'],
+        "imagery_score": 2.6
+    },
+    {
+        "id": 143,
+        "pic_cate": "animal",
+        "cate": "mockingbird",
+        "diet": "omnivorous",
+        "unit": "solitary",
+        "volume": "medium",
+        "imagery_words": ['harbinger','melodious','vibrant','loyal','hopeful'],
+        "imagery_score": 4
+    },
+    {
+        "id": 144,
+        "pic_cate": "animal",
+        "cate": "spider",
+        "diet": "herbivorous",
+        "unit": "solitary",
+        "volume": "small",
+        "imagery_words": ['resourceful','adaptable','intricate','predatory','solitary'],
+        "imagery_score": 0.6
+    },
+    {
+        "id": 145,
+        "pic_cate": "animal",
+        "cate": "pig",
+        "diet": "omnivorous",
+        "unit": "solitary",
+        "volume": "medium",
+        "imagery_words": ['lazy','docile','sustenance','prosperity','fertility'],
+        "imagery_score": 1.8
+    }
+]
