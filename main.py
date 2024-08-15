@@ -1,7 +1,7 @@
 # -*- coding: UTF-8 -*-
 #对baseline wscnet sentinet spatial channel_wise spatial+channel_wise的IAPS和NAPS做实验
 import torch
-import model_utils.common_solver as c_solver
+import common_solver as c_solver
 import net as net
 import regression_core
 import WSCNet_core
