@@ -1,7 +1,7 @@
 import numpy as np
 from torchvision import transforms
-import model_utils.common_dataset as cd
-import model_utils.json_process as jp
+import common_dataset as cd
+import json_process as jp
 import torch.utils.data as Data
 import FI_dataset
 import os
