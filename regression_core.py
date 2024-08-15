@@ -3,7 +3,7 @@ import torch
 import torch.nn.functional as F
 import numpy as np
 import math
-from model_utils import ndcg
+import ndcg
 
 class regression_processer(k_processor.kernel_processer):
     def __init__(self,grad_clip=False,clip_value=5.0,epoch_lr_decay=250,
