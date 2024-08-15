@@ -1,4 +1,4 @@
-import model_utils.kernel_processer as k_processor
+import kernel_processer as k_processor
 import torch
 import torch.nn.functional as F
 import numpy as np
